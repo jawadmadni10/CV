@@ -1,0 +1,30 @@
+body
+{
+background-color : #A3E4D7;
+}
+
+hr
+{
+	width: 10%;
+	border-color : grey;
+	border-style:none;
+	border-top-style: Dotted;
+	border-width: 5px;
+}
+
+
+h1
+{
+	color : #34495E;
+}
+
+
+h2
+{
+	color : #34495E;
+}
+
+img
+{
+	border-radius: 100%;
+}
